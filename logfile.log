@@ -1,0 +1,12 @@
+[2024-02-17 12:47:17] [ ERROR] [Animal:54] org.h2.Driver
+[2024-02-17 12:47:17] [ ERROR] [Animal:63] Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2024-02-17 12:51:11] [ INFO ] [Animal:36] Animal: 1 - Firulais - Perro
+[2024-02-17 12:51:11] [ INFO ] [Animal:36] Animal: 2 - Lola - Vaca
+[2024-02-17 12:51:11] [ INFO ] [Animal:36] Animal: 3 - Homero - Perro
+[2024-02-17 12:51:11] [ INFO ] [Animal:36] Animal: 4 - Pepe - Sapo
+[2024-02-17 12:51:11] [ INFO ] [Animal:36] Animal: 5 - Tuki - Loro
+[2024-02-17 12:51:11] [ INFO ] [Animal:42]  ------------ *** ------------ 
+[2024-02-17 12:51:11] [ INFO ] [Animal:49] Animal: 2 - Lola - Vaca
+[2024-02-17 12:51:11] [ INFO ] [Animal:49] Animal: 3 - Homero - Perro
+[2024-02-17 12:51:11] [ INFO ] [Animal:49] Animal: 4 - Pepe - Sapo
+[2024-02-17 12:51:11] [ INFO ] [Animal:49] Animal: 5 - Tuki - Loro
