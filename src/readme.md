@@ -1,4 +1,4 @@
-### Notas importantes a tener en cuenta para conectar una base de datos en Backend:
+# Notas importantes a tener en cuenta para conectar una base de datos en Backend:
 
 ##### Links de interes:
 

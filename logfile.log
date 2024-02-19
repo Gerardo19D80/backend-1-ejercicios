@@ -10,3 +10,120 @@
 [2024-02-17 12:51:11] [ INFO ] [Animal:49] Animal: 3 - Homero - Perro
 [2024-02-17 12:51:11] [ INFO ] [Animal:49] Animal: 4 - Pepe - Sapo
 [2024-02-17 12:51:11] [ INFO ] [Animal:49] Animal: 5 - Tuki - Loro
+[2024-02-17 16:43:19] [ INFO ] [Animal:36] Animal: 1 - Firulais - Perro
+[2024-02-17 16:43:19] [ INFO ] [Animal:36] Animal: 2 - Lola - Vaca
+[2024-02-17 16:43:19] [ INFO ] [Animal:36] Animal: 3 - Homero - Perro
+[2024-02-17 16:43:19] [ INFO ] [Animal:36] Animal: 4 - Pepe - Sapo
+[2024-02-17 16:43:19] [ INFO ] [Animal:36] Animal: 5 - Tuki - Loro
+[2024-02-17 16:43:19] [ INFO ] [Animal:42]  ------------ *** ------------ *** ------------ 
+[2024-02-17 16:43:19] [ INFO ] [Animal:49] Animal: 2 - Lola - Vaca
+[2024-02-17 16:43:19] [ INFO ] [Animal:49] Animal: 3 - Homero - Perro
+[2024-02-17 16:43:19] [ INFO ] [Animal:49] Animal: 4 - Pepe - Sapo
+[2024-02-17 16:43:19] [ INFO ] [Animal:49] Animal: 5 - Tuki - Loro
+[2024-02-18 12:59:49] [ INFO ] [Animal:36] Animal: 1 - Firulais - Perro
+[2024-02-18 12:59:49] [ INFO ] [Animal:36] Animal: 2 - Lola - Vaca
+[2024-02-18 12:59:49] [ INFO ] [Animal:36] Animal: 3 - Homero - Perro
+[2024-02-18 12:59:49] [ INFO ] [Animal:36] Animal: 4 - Pepe - Sapo
+[2024-02-18 12:59:49] [ INFO ] [Animal:36] Animal: 5 - Tuki - Loro
+[2024-02-18 12:59:49] [ INFO ] [Animal:42]  ------------ *** ------------ *** ------------ 
+[2024-02-18 12:59:49] [ INFO ] [Animal:49] Animal: 2 - Lola - Vaca
+[2024-02-18 12:59:49] [ INFO ] [Animal:49] Animal: 3 - Homero - Perro
+[2024-02-18 12:59:49] [ INFO ] [Animal:49] Animal: 4 - Pepe - Sapo
+[2024-02-18 12:59:49] [ INFO ] [Animal:49] Animal: 5 - Tuki - Loro
+[2024-02-18 13:01:37] [ ERROR] [Animal:54] Valor Invalido "23" para el parametro "columnIndex"
+Invalid value "23" for parameter "columnIndex" [90008-214]
+[2024-02-18 13:03:10] [ INFO ] [Animal:36] Animal: 1 - Firulais - Perro
+[2024-02-18 13:03:10] [ INFO ] [Animal:36] Animal: 2 - Lola - Vaca
+[2024-02-18 13:03:10] [ INFO ] [Animal:36] Animal: 3 - Homero - Perro
+[2024-02-18 13:03:10] [ INFO ] [Animal:36] Animal: 4 - Pepe - Sapo
+[2024-02-18 13:03:10] [ INFO ] [Animal:36] Animal: 5 - Tuki - Loro
+[2024-02-18 13:03:10] [ INFO ] [Animal:42]  ------------ *** ------------ *** ------------ 
+[2024-02-18 13:03:10] [ INFO ] [Animal:54] Valor Invalido "23" para el parametro "columnIndex"
+Invalid value "23" for parameter "columnIndex" [90008-214]
+[2024-02-18 13:08:03] [ INFO ] [Animal:36] Animal: 1 - Firulais - Perro
+[2024-02-18 13:08:03] [ INFO ] [Animal:36] Animal: 2 - Lola - Vaca
+[2024-02-18 13:08:03] [ INFO ] [Animal:36] Animal: 3 - Homero - Perro
+[2024-02-18 13:08:03] [ INFO ] [Animal:36] Animal: 4 - Pepe - Sapo
+[2024-02-18 13:08:03] [ INFO ] [Animal:36] Animal: 5 - Tuki - Loro
+[2024-02-18 13:08:03] [ INFO ] [Animal:42]  ------------ *** ------------ *** ------------ 
+[2024-02-18 13:08:03] [ ERROR] [Animal:54] Valor Invalido "23" para el parametro "columnIndex"
+Invalid value "23" for parameter "columnIndex" [90008-214]
+[2024-02-18 13:13:43] [ INFO ] [Animal:37] Animal: 1 - Firulais - Perro
+[2024-02-18 13:13:43] [ INFO ] [Animal:37] Animal: 2 - Lola - Vaca
+[2024-02-18 13:13:43] [ INFO ] [Animal:37] Animal: 3 - Homero - Perro
+[2024-02-18 13:13:43] [ INFO ] [Animal:37] Animal: 4 - Pepe - Sapo
+[2024-02-18 13:13:43] [ INFO ] [Animal:37] Animal: 5 - Tuki - Loro
+[2024-02-18 13:13:43] [ INFO ] [Animal:43]  ------------ *** ------------ *** ------------ 
+[2024-02-18 13:13:43] [ FATAL] [Animal:55] ERROR EN EL CODIGO
+[2024-02-18 13:14:42] [ INFO ] [Animal:37] Animal: 1 - Firulais - Perro
+[2024-02-18 13:14:42] [ INFO ] [Animal:37] Animal: 2 - Lola - Vaca
+[2024-02-18 13:14:42] [ INFO ] [Animal:37] Animal: 3 - Homero - Perro
+[2024-02-18 13:14:42] [ INFO ] [Animal:37] Animal: 4 - Pepe - Sapo
+[2024-02-18 13:14:42] [ INFO ] [Animal:37] Animal: 5 - Tuki - Loro
+[2024-02-18 13:14:42] [ INFO ] [Animal:43]  ------------ *** ------------ *** ------------ 
+[2024-02-18 13:14:42] [ WARN ] [Animal:55] ERROR EN EL CODIGO
+[2024-02-18 13:15:29] [ INFO ] [Animal:37] Animal: 1 - Firulais - Perro
+[2024-02-18 13:15:29] [ INFO ] [Animal:37] Animal: 2 - Lola - Vaca
+[2024-02-18 13:15:29] [ INFO ] [Animal:37] Animal: 3 - Homero - Perro
+[2024-02-18 13:15:29] [ INFO ] [Animal:37] Animal: 4 - Pepe - Sapo
+[2024-02-18 13:15:29] [ INFO ] [Animal:37] Animal: 5 - Tuki - Loro
+[2024-02-18 13:15:29] [ INFO ] [Animal:43]  ------------ *** ------------ *** ------------ 
+[2024-02-18 13:15:29] [ ERROR] [Animal:55] ERROR EN EL CODIGO
+[2024-02-18 13:20:54] [ INFO ] [Animal:38] Animal: 1 - Firulais - Perro
+[2024-02-18 13:20:54] [ INFO ] [Animal:38] Animal: 2 - Lola - Vaca
+[2024-02-18 13:20:54] [ INFO ] [Animal:38] Animal: 3 - Homero - Perro
+[2024-02-18 13:20:54] [ INFO ] [Animal:38] Animal: 4 - Pepe - Sapo
+[2024-02-18 13:20:54] [ INFO ] [Animal:38] Animal: 5 - Tuki - Loro
+[2024-02-18 13:20:54] [ INFO ] [Animal:44]  ------------ *** ------------ *** ------------ 
+[2024-02-18 13:20:54] [ ERROR] [Animal:57] Se ha producido un error
+[2024-02-18 13:21:48] [ INFO ] [Animal:38] Animal: 1 - Firulais - Perro
+[2024-02-18 13:21:48] [ INFO ] [Animal:38] Animal: 2 - Lola - Vaca
+[2024-02-18 13:21:48] [ INFO ] [Animal:38] Animal: 3 - Homero - Perro
+[2024-02-18 13:21:48] [ INFO ] [Animal:38] Animal: 4 - Pepe - Sapo
+[2024-02-18 13:21:48] [ INFO ] [Animal:38] Animal: 5 - Tuki - Loro
+[2024-02-18 13:21:48] [ INFO ] [Animal:44]  ------------ *** ------------ *** ------------ 
+[2024-02-18 13:21:48] [ INFO ] [Animal:51] Animal: 2 - Lola - Vaca
+[2024-02-18 13:21:48] [ INFO ] [Animal:51] Animal: 3 - Homero - Perro
+[2024-02-18 13:21:48] [ INFO ] [Animal:51] Animal: 4 - Pepe - Sapo
+[2024-02-18 13:21:48] [ INFO ] [Animal:51] Animal: 5 - Tuki - Loro
+[2024-02-19 20:28:25] [ INFO ] [Animal:38] Animal: 1 - Firulais - Perro
+[2024-02-19 20:28:25] [ INFO ] [Animal:38] Animal: 2 - Lola - Vaca
+[2024-02-19 20:28:25] [ INFO ] [Animal:38] Animal: 3 - Homero - Perro
+[2024-02-19 20:28:25] [ INFO ] [Animal:38] Animal: 4 - Pepe - Sapo
+[2024-02-19 20:28:25] [ INFO ] [Animal:38] Animal: 5 - Tuki - Loro
+[2024-02-19 20:28:25] [ INFO ] [Animal:44]  ------------ *** ------------ *** ------------ 
+[2024-02-19 20:28:25] [ INFO ] [Animal:51] Animal: 2 - Lola - Vaca
+[2024-02-19 20:28:25] [ INFO ] [Animal:51] Animal: 3 - Homero - Perro
+[2024-02-19 20:28:25] [ INFO ] [Animal:51] Animal: 4 - Pepe - Sapo
+[2024-02-19 20:28:25] [ INFO ] [Animal:51] Animal: 5 - Tuki - Loro
+[2024-02-19 20:28:39] [ ERROR] [Empleado:42] Error de Sintaxis en sentencia SQL "CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA DATE [*](YYYY-MM-DD) NOT NULL)"; se esperaba "ARRAY, INVISIBLE, VISIBLE, NOT NULL, NULL, AS, DEFAULT, GENERATED, ON UPDATE, NOT NULL, NULL, AUTO_INCREMENT, DEFAULT ON NULL, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"
+Syntax error in SQL statement "CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA DATE [*](YYYY-MM-DD) NOT NULL)"; expected "ARRAY, INVISIBLE, VISIBLE, NOT NULL, NULL, AS, DEFAULT, GENERATED, ON UPDATE, NOT NULL, NULL, AUTO_INCREMENT, DEFAULT ON NULL, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"; SQL statement:
+CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA DATE (YYYY-MM-DD) NOT NULL) [42001-214]
+[2024-02-19 20:30:49] [ ERROR] [Empleado:42] Conversión de datos fallida, convirtiendo "2000 (EMPLEADOS: ""FECHA"" DATE NOT NULL)"
+Data conversion error converting "2000 (EMPLEADOS: ""FECHA"" DATE NOT NULL)"; SQL statement:
+INSERT INTO EMPLEADOS (NOMBRE, EDAD, EMPRESA, FECHA) VALUES ('Fernando', 44, 'Digital', 2023-09-14), ('Gerardo', 41, 'Facebook', 2026-10-10), ('Michael', 38, 'Google', 2022-11-08), ('Elton', 25, 'Digital', 2021-12-03), ('Moro', 22, 'Google', 2023-10-04) [22018-214]
+[2024-02-19 20:31:18] [ ERROR] [Empleado:42] Error de Sintaxis en sentencia SQL "CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA DATE NOT NULL[*]"; se esperaba "AS, DEFAULT, GENERATED, ON UPDATE, AUTO_INCREMENT, DEFAULT ON NULL, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"
+Syntax error in SQL statement "CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA DATE NOT NULL[*]"; expected "AS, DEFAULT, GENERATED, ON UPDATE, AUTO_INCREMENT, DEFAULT ON NULL, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"; SQL statement:
+CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA DATE NOT NULL [42001-214]
+[2024-02-19 20:33:16] [ ERROR] [Empleado:42] Error de Sintaxis en sentencia SQL "CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA DATE NOT NULL[*]"; se esperaba "AS, DEFAULT, GENERATED, ON UPDATE, AUTO_INCREMENT, DEFAULT ON NULL, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"
+Syntax error in SQL statement "CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA DATE NOT NULL[*]"; expected "AS, DEFAULT, GENERATED, ON UPDATE, AUTO_INCREMENT, DEFAULT ON NULL, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"; SQL statement:
+CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA DATE NOT NULL [42001-214]
+[2024-02-19 20:36:38] [ ERROR] [Empleado:42] Error de Sintaxis en sentencia SQL "CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA DATE NOT NULL[*]"; se esperaba "AS, DEFAULT, GENERATED, ON UPDATE, AUTO_INCREMENT, DEFAULT ON NULL, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"
+Syntax error in SQL statement "CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA DATE NOT NULL[*]"; expected "AS, DEFAULT, GENERATED, ON UPDATE, AUTO_INCREMENT, DEFAULT ON NULL, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"; SQL statement:
+CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA DATE NOT NULL [42001-214]
+[2024-02-19 20:37:30] [ ERROR] [Empleado:42] Error de Sintaxis en sentencia SQL "CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA DATE NOT NULL[*]"; se esperaba "AS, DEFAULT, GENERATED, ON UPDATE, AUTO_INCREMENT, DEFAULT ON NULL, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"
+Syntax error in SQL statement "CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA DATE NOT NULL[*]"; expected "AS, DEFAULT, GENERATED, ON UPDATE, AUTO_INCREMENT, DEFAULT ON NULL, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"; SQL statement:
+CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA DATE NOT NULL [42001-214]
+[2024-02-19 20:39:03] [ ERROR] [Empleado:42] Error de Sintaxis en sentencia SQL "CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA VARCHAR(50) NOT NULL[*]"; se esperaba "AS, DEFAULT, GENERATED, ON UPDATE, AUTO_INCREMENT, DEFAULT ON NULL, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"
+Syntax error in SQL statement "CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA VARCHAR(50) NOT NULL[*]"; expected "AS, DEFAULT, GENERATED, ON UPDATE, AUTO_INCREMENT, DEFAULT ON NULL, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"; SQL statement:
+CREATE TABLE EMPLEADOS(ID INT AUTO_INCREMENT PRIMARY KEY, NOMBRE VARCHAR(50) NOT NULL, EDAD INT NOT NULL, EMPRESA VARCHAR(50) NOT NULL, FECHA VARCHAR(50) NOT NULL [42001-214]
+[2024-02-19 20:42:50] [ INFO ] [Empleado:45] El empleado es: 1 - Fernando - 44 - Digital - 2023-09-14
+[2024-02-19 20:42:50] [ INFO ] [Empleado:45] El empleado es: 2 - Gerardo - 41 - Facebook - 2026-10-10
+[2024-02-19 20:42:50] [ INFO ] [Empleado:45] El empleado es: 3 - Michael - 38 - Google - 2022-11-08
+[2024-02-19 20:42:50] [ INFO ] [Empleado:45] El empleado es: 4 - Elton - 25 - Digital - 2021-12-03
+[2024-02-19 20:42:50] [ INFO ] [Empleado:45] El empleado es: 5 - Moro - 22 - Google - 2023-10-04
+[2024-02-19 20:45:14] [ INFO ] [Empleado:46] El empleado es: 1 - Fernando - 44 - Digital - 2023-09-14
+[2024-02-19 20:45:14] [ INFO ] [Empleado:46] El empleado es: 2 - Gerardo - 41 - Facebook - 2026-10-10
+[2024-02-19 20:45:14] [ INFO ] [Empleado:46] El empleado es: 3 - Michael - 38 - Google - 2022-11-08
+[2024-02-19 20:45:14] [ INFO ] [Empleado:46] El empleado es: 4 - Elton - 25 - Digital - 2021-12-03
+[2024-02-19 20:45:14] [ INFO ] [Empleado:46] El empleado es: 5 - Moro - 22 - Google - 2023-10-04

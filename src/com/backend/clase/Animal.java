@@ -1,7 +1,9 @@
 package com.backend.clase;
 
+import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 
+import javax.print.DocFlavor;
 import java.sql.*;
 
 public class Animal {
@@ -24,7 +26,7 @@ public class Animal {
             //crearTabla
             Statement statement = connection.createStatement();
             statement.execute(create);
-
+            
             //insertarRegistros
             statement.execute(insert);
 
@@ -39,7 +41,7 @@ public class Animal {
             //eliminar un registro
             statement.execute("DELETE FROM ANIMALES WHERE ID = 1");
 
-            LOGGER.info(" ------------ *** ------------ ");
+            LOGGER.info(" ------------ *** ------------ *** ------------ ");
 
             //select all
             resultSet = statement.executeQuery("SELECT * FROM ANIMALES");
@@ -51,6 +53,7 @@ public class Animal {
 
         } catch (Exception exception){
             exception.printStackTrace();
+            //LOGGER.log(Level.ERROR, "Se ha producido un error");
             LOGGER.error(exception.getMessage());
 
         } finally {
@@ -58,6 +61,7 @@ public class Animal {
             try{
                 // NO OLVIDAR!!! - cierro la conexion con la base de datos
                 // NUNCA NUNC@ SE DEJA LA CONEXION ABIERTA DE LA BASE
+                assert connection != null;
                 connection.close();
             } catch (Exception exception){
                 LOGGER.error(exception.getMessage());
